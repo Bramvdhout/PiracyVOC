@@ -1,4 +1,4 @@
-#+ summary: Example query calls for 10 triples, will be replaced when dataset is converted to RDF
+#+ summary: Database containing data retrieved from ANRI-archive detailing mentions of piracy in VOC-empire between 1650-1750.
 #+ endpoint: https://api.druid.datalegend.net/datasets/Bramvdhout/Piracy-Database-ANRI/services/test/sparql
 
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
